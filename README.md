@@ -1,1 +1,0 @@
-# uvodni-tecaj-vss
