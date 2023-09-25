@@ -39,6 +39,7 @@ npr.
 dokler ne padeš čez rob sveta:
     pojdi v desno
 ```
+Vendar bomo te zanke spoznali kasneje, saj bomo najprej spoznali pogojne stavke.
 
 ## Brez računalnika
 
