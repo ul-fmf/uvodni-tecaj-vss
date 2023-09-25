@@ -81,7 +81,18 @@ Zdaj, ko imate že nekaj izkušenj z dajanjem natančnih navodil: kako bi podali
 
 ### Barvanje mreže
 
-TODO
+Napišite programe, s katerimi boste pobarvali mreže v [priloženi datoteki](barvanje-mreze.pdf).
+Začnite v zgornjem levem polju. Na voljo imate ukaze:
+
+- premakni se za ena na desno,
+- premakni se za ena na levo,
+- premakni se za ena navzdol,
+- premakni se za ena navzgor in
+- pobarvaj kvadratek.
+
+Kaj pomeni, če spremenimo vrstni red ukazov - ali vedno dobimo napačen rezultat?
+Kako se spremeni program, če spremenimo začetno polje?
+Kaj naj se zgodi, če zaidemo iz mreže?
 
 ### Otok zakladov (končni avtomati)
 
