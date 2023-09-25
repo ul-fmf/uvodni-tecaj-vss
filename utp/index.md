@@ -23,3 +23,4 @@ programiranja z delčki na računalniku.
 ## Kazalo po temah
 
 * [Zaporedje ukazov](zaporedje-ukazov.html)
+* [Zanke](zanke.html)
