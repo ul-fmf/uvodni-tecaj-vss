@@ -1,5 +1,3 @@
-# Uvajalni tečaj programiranja in Repetitorij matematike
-
 ## Repetitorij matematike
 
 [Naloge](RepetitorijMatematike.pdf) sta jih pripravila Timotej Hrga in Blaž Jelenc.
