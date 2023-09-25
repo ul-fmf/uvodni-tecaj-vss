@@ -1,7 +1,7 @@
 domain: ul-fmf.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://ul-fmf.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /uvodni-tecaj-vss/      # place folder name if the site is served in a subfolder
-author: test
+author: Katja Berčič, Timotej Hrga, Blaž Jelenc, Filip Koprivec, Ajda Lampe, Matej Petković, Gašper Žajdela
 
 theme: minima
 title: Uvajalni tečaj programiranja in Repetitorij matematike
