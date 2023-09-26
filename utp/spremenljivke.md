@@ -14,7 +14,7 @@ Spremenljivke v večini programskih jezikov lahko poljubno poimenujemo, vendar j
 
 ### Fibonaccijevo zaporedje
 
-Verjetno ste že kdaj slišali za Fibonaccijevo zaporedje. To je zaporedje, kjer sta prvi in drugi člen enaka 1, vsak naslednji člen pa je vsota prejšnjih. Pri tej vaji boste simulirali računalnik, ki računa števila Fibonaccijevega zaporedja.
+Verjetno ste že kdaj slišali za Fibonaccijevo zaporedje. To je zaporedje, kjer sta prvi in drugi člen enaka 1, vsak naslednji člen pa je vsota prejšnjih dveh. Pri tej vaji boste simulirali računalnik, ki računa števila Fibonaccijevega zaporedja.
 
 V krogu si podajajte dve škatli. Na eni piše `manjše` in na drugi `večje`. V teh dveh škatlah se nahajata dve števili. Vaša naloga je sledeča:
 
