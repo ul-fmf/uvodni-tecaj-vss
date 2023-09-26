@@ -3,6 +3,10 @@ layout: home
 title: Spremenljivke
 ---
 
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 Pogosto si moramo v programu kakšno vrednost zapomniti,
 če jo želimo večkrat uporabiti. Za to uporabljamo spremenljivke. Vsaka spremenljivka ima svoje ime
 (npr. $x$, `trenutna_vsota`, `ime`) in vrednost, ki jo hranimo v tej spremenljivki
