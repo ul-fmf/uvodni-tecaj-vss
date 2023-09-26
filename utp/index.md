@@ -32,4 +32,5 @@ Več informacij lahko najdete tudi na naslednjih povezavah.
 
 * [Rešene naloge s tekmovanj na Pišku](https://tekmovanja.acm.si/?q=node/631),
 * [Programiranje z delčki](https://lusy.fri.uni-lj.si/ucbenik/prog/index.html) (e-učbenik za uvod v programiranje),
-* [Naloge s tekmovanj Bober](https://tekmovanja.acm.si/?q=bober/naloge-re%C5%A1itve) (mednarodno tekmovanje iz računalniškega mišljenja, namenjeno osnovnošolcem od drugega razreda naprej in srednješolcem).
+* [Naloge s tekmovanj Bober](https://tekmovanja.acm.si/?q=bober/naloge-re%C5%A1itve) (mednarodno tekmovanje iz računalniškega mišljenja, namenjeno osnovnošolcem od drugega razreda naprej in srednješolcem),
+* [Programiranje z delčki na code.org](https://studio.code.org/projects/public): programirajte plesno koreografijo, poezijo in še kaj.
