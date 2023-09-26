@@ -19,6 +19,7 @@ programiranja z delčki na računalniku.
 
 * [Zaporedje ukazov](zaporedje-ukazov.html) (26. september)
 * [Zanke](zanke.html) (27. september)
+* [Spremenljivke](spremenljivke.md) 
 
 ## Viri
 
