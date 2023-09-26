@@ -9,8 +9,8 @@ title: Spremenljivke
 
 Pogosto si moramo v programu kakšno vrednost zapomniti,
 če jo želimo večkrat uporabiti. Za to uporabljamo spremenljivke. Vsaka spremenljivka ima svoje ime
-(npr. $x$, `trenutna_vsota`, `ime`) in vrednost, ki jo hranimo v tej spremenljivki
-(npr. $3{.}14$, $21$, `Bojan`). Ker so to _spremenljivke_, lahko njihove vrednosti spreminjamo.
+(npr. $$x$$, `trenutna_vsota`, `ime`) in vrednost, ki jo hranimo v tej spremenljivki
+(npr. $$3{.}14$$, $$21$$, `Bojan`). Ker so to _spremenljivke_, lahko njihove vrednosti spreminjamo.
 
 Spremenljivke v večini programskih jezikov lahko poljubno poimenujemo, vendar je njihovo ime namenjeno zgolj programerju, saj ime spremenljivke navadno pove, kaj se v spremenljivki nahaja. Zato je dobra praksa, da spremenljivke poimenujemo smiselno. Naprimer, če imamo neko spremenljivko, v katero si bomo shranjevali trenutno vsoto, je smiselno tudi spremenljivko poimenovati `trenutna_vsota`, čeprav je na nivoju računalnika čisto vseeno, če to spremenljivko poimenujemo `ime`.
 
@@ -30,13 +30,13 @@ V krogu si podajajte dve škatli. Na eni piše `manjše` in na drugi `večje`. V
 
 Na ta način poiščite prvo Fibonaccijevo število, ki je večje od 1000.
 
-Poskusite napisati psevdo kodo, ki izračuna $n$-to Fibonaccijevo število.
+Poskusite napisati psevdo kodo, ki izračuna $$n$$-to Fibonaccijevo število.
 
 ### Evklidov algoritem
 
 Pri tej nalogi boste s pomočjo Evklidovega algoritma poiskali največji skupni delitelj danih dveh števil.
 
-Najprej se spomnimo kako Evklidov algoritem deluje. Začnemo z dvema številoma $a$ in $b$, za kateri želimo izračunati največji skupni delitelj. Število $a$ zapišemo kot $a = q \cdot b + r$, kjer je $r$ strogo manjši od števila $b$. Nato število $a$ nadomestimo z $b$ in $b$ nadomestimo z $r$. Postopek ponavljamo, dokler ne dobimo da je $r=0$. v tem primeru vemo, da je na tem koraku $b$ največji skupni delitelj prvotnih števil $a$ in $b$.
+Najprej se spomnimo kako Evklidov algoritem deluje. Začnemo z dvema številoma $$a$$ in $$b$$, za kateri želimo izračunati največji skupni delitelj. Število $$a$$ zapišemo kot $$a = q \cdot b + r$$, kjer je $$r$$ strogo manjši od števila $$b$$. Nato število $$a$$ nadomestimo z $$b$$ in $$b$$ nadomestimo z $$r$$. Postopek ponavljamo, dokler ne dobimo da je $$r=0$$. v tem primeru vemo, da je na tem koraku $$b$$ največji skupni delitelj prvotnih števil $$a$$ in $$b$$.
 
 Na podoben način kot pri računanju Fibonaccijevega zaporedja tudi tukaj simulirajte algoritem s pomočjo dveh škatel, kjer za `manjše` uporabite število 57 in za `večje` uporabite število 81.
 
@@ -100,7 +100,7 @@ Programa morata na izhod izpisati ustrezen rezultat (vsoto in produkt) teh dveh 
 
 _Za reševanje naloge na tretji stopnji je treba poznati zanke._
 
-Zaporedje $a_1, a_2, a_3, ...$ je aritmetično, če je
+Zaporedje $$a_1, a_2, a_3, ...$$ je aritmetično, če je
 razlika med zaporednima členoma zaporedja vedno enaka.
 Primeri aritmetičnih zaporedij so
 
@@ -109,13 +109,13 @@ Primeri aritmetičnih zaporedij so
 - 5, 2, -1, -4 ... (razlika je vedno -3).
 
 Aritmetično zaporedje je tako povsem določeno s svojim
-začetnim členom $a_1$ in razliko med zaporednima členoma, ki jo označimo z $r$.
+začetnim členom $$a_1$$ in razliko med zaporednima členoma, ki jo označimo z $$r$$.
 
-Na prvi stopnji moramo popraviti program, ki prebere z vhoda $a_1$ in razliko $r$, na izhod pa mora zapisati $a_{10}$, tj. deseti člen zaporedja: $a_{10} = a_1 + 9r$.
+Na prvi stopnji moramo popraviti program, ki prebere z vhoda $$a_1$$ in razliko $$r$$, na izhod pa mora zapisati $$a_{10}$$, tj. deseti člen zaporedja: $$a_{10} = a_1 + 9r$$.
 
-Na drugi stopnji mora program prebrati z vhoda še število $i$ in na izhod zapisati $i$-i člen zaporedja, ki ga dobimo po formuli $a_i = a_1 + (i - 1) r$.
+Na drugi stopnji mora program prebrati z vhoda še število $$i$$ in na izhod zapisati $$i$$-i člen zaporedja, ki ga dobimo po formuli $$a_i = a_1 + (i - 1) r$$.
 
-Na tretji stopnji je vhod enak kot pri drugi, program pa mora na izhodu zapisati prvih $i$ členov, tj. $a_1, a_2, \dots, a_i$.
+Na tretji stopnji je vhod enak kot pri drugi, program pa mora na izhodu zapisati prvih $$i$$ členov, tj. $$a_1, a_2, \dots, a_i$$.
 
 ### [Trikotniki](https://pisek.acm.si/contents/4907-905475276192595697-336263441319752813-1107968706648330591/)
 
