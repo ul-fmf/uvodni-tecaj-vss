@@ -17,8 +17,8 @@ programiranja z delčki na računalniku.
 
 ## Kazalo po temah
 
-* [Zaporedje ukazov](zaporedje-ukazov.html)
-* [Zanke](zanke.html)
+* [Zaporedje ukazov](zaporedje-ukazov.html) (26. september)
+* [Zanke](zanke.html) (27. september)
 
 ## Viri
 
