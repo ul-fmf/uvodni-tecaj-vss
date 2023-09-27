@@ -54,8 +54,8 @@ Kaj naj se zgodi, če zaidemo iz mreže?
 To nalogo smo si izposodili s portala [Vidra](http://vidra.si/otok-zakladov/). Za igro potrebujemo gusarja ter sedem udeležencev, ki predstavljajo otočane in gusarja usmerjajo.
 Gusarjeva naloga je poiskati otok zakladov.
 
-Otočani dobijo listek z imenom svojega otoka (`gusarji-otoki.pdf`), in navodila kam iz njihovega otoka odpotuje ladja A in kam ladja B.
-Gusar dobi prazen zemljevid (`gusarji-prazen-zemljevid.pdf`), na katerem so narisani vsi otoki, ni pa napisano kam lahko iz posameznega otoka odpluje.
+Otočani dobijo listek z imenom svojega otoka ([gusarji-otoki.pdf](gusarji-otoki.pdf)), in navodila kam iz njihovega otoka odpotuje ladja A in kam ladja B.
+Gusar dobi prazen zemljevid ([gusarji-prazen-zemljevid.pdf](gusarji-prazen-zemljevid.pdf)), na katerem so narisani vsi otoki, ni pa napisano kam lahko iz posameznega otoka odpluje.
 Gusar svojo pot začne na Otoku gusarjev.
 
 ## Naloge na Portalu Pišek
@@ -96,6 +96,10 @@ Pozor - pri tej nalogi so ukazi drugačni! Namesto premikov glede na smeri v mre
 
 Kot vidite, je program odvisen od nabora ukazov, ki ga imamo na voljo.
 Poskusite sestaviti program, ki uporabi ukaze iz prejšnjih nalog (gor, dol, levo in desno) in ga primerjajte z rešitvijo te naloge.
+
+### Delovni list
+
+Rešite [delovni list](delovni-list-01.pdf).
 
 ### Naloge za samostojno reševanje
 
