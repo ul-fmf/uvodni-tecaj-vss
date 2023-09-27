@@ -47,7 +47,7 @@ Kako bi ugotovili, ali je beseda `kajak` palindrom? Kaj pa `fdfpokfgpdokvfdfvkod
 
 Poskusite se spomniti algoritma, ki bo za vsako besedo znal povedati, ali je palindrom.
 
-Napišite prevdo kodo za ta algoritem.
+Napišite psevdo kodo za ta algoritem.
 
 ## Naloge na Portalu Pišek
 

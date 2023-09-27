@@ -3,8 +3,6 @@ layout: home
 title: Zanke
 ---
 
-# Zanke
-
 Če napišemo novo pop-uspešnico, v kateri brez predaha uporabljamo iste štiri akorde `C G a F`
 in želimo to deliti s svojim kolegom, bo kar trajalo, da natipkamo celo pesem
 
