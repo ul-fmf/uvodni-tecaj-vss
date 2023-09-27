@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Pogojni stavki in logični operatorji
+title: Pogojni stavek
 ---
 
 <script type="text/javascript" async
@@ -221,7 +221,7 @@ so zložena v trikotnik (ki ga malo manjka) in križ.
 
 ### Dodatno utrjevanje
 
-#### [Začetni ples v paru](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1384912022465555789/):
+#### [Začetni ples v paru](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1384912022465555789/)
 
 Pojdi do plesalke, jo dvigni in odloži na rumenem polju.
 
