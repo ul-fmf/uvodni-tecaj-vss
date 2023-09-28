@@ -134,6 +134,19 @@ Najdi formulo, ki pripada resničnostni tabeli operatorja `?`:
 
 Koliko je dvomestnih logičnih operatorjev (`ali` ter `in` sta dva od njih)?
 
+#### Vse muhe na en mah
+
+S pomočjo logičnega operatorja `#` (njegovo resničnostno tabelo lahko vidite spodaj), izrazi operatorje `not`, `and` in `or`.
+
+| `P` | `Q` | `P # Q` |
+| --- | --- | ------- |
+| 0   | 0   | 1       |
+| 0   | 1   | 0       |
+| 1   | 0   | 0       |
+| 1   | 1   | 0       |
+
+Kako bi operator `#` izrazil s pomočjo `and`, `or`, `not`?
+
 #### Elektronska vezja
 
 Naredi vezje z dvema stikaloma in lučjo, tako da velja:
@@ -155,7 +168,7 @@ Zaporedje se konča, ko pridemo do števila 1, saj se v tem primeru začne ponav
 
 Za domačo nalogo, lahko dokažete, da se Collatzovo zaporedje za vsak začetni člen zagotovo konča (torej, pride do 1). Če vam to uspe, dokaz prinesite pokazati enemu od avtorjev teh zapiskov.
 
-Vaša naloga tukaj pa je, da simulirate računalnik, ki računa Collatzovo zaporedje. Za to potrebujemo 3 prostovoljce. En zna za vsako lijo število $$n$$ izračunati $$3n + 1$$, drugi zna za vsako sodo število $$n$$ izračunati $$n / 2$$, tretji pa zna za vsako število $$n$$ ugotoviti, ali je število sodo ali liho. Izračunajte zaporedje števila 52.
+Vaša naloga tukaj pa je, da simulirate računalnik, ki računa Collatzovo zaporedje. Za to potrebujemo 3 prostovoljce. En zna za vsako liho število $$n$$ izračunati $$3n + 1$$, drugi zna za vsako sodo število $$n$$ izračunati $$n / 2$$, tretji pa zna za vsako število $$n$$ ugotoviti, ali je število sodo ali liho. Izračunajte zaporedje števila 52.
 
 ### Najdi približno ničlo
 
@@ -179,13 +192,13 @@ Srečali boste logične operatorje `ne`, `in` ter `ali`, poleg tega pa še opera
 
 ### [Orientacijski pohod](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1575202735895118993/)
 
-Sprehajalec se sprehaja proti desni, če pa je polje označeno mora narediti še korak navzgor.
+Sprehajalec se sprehaja proti desni, če pa je polje označeno, mora narediti še korak navzgor.
 
 Če ti je naloga zelo všeč, lahko rešiš še [Lov na zastavo](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1430889895220564935/) in [Tropsko preizkušnjo](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1999646710564579332/).
 
 ### [Pišek raziskuje](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1415830099417829505/)
 
-Sprehodite Piška, tako da bo poti pobiral semena (semen ni treba pobrati z ukazom, dovolj je, da obiščete polje). Če Pišek pride na _označeno polje_ (na njem so narisane stopinje), se obrne za v desno.
+Sprehodite Piška, tako da bo po poti pobiral semena (semen ni treba pobrati z ukazom, dovolj je, da obiščete polje). Če Pišek pride na _označeno polje_ (na njem so narisane stopinje), se obrne desno.
 
 Ker ne veste, koliko časa bo treba hoditi do označenega polja, boste v zanki namesto neke konkretne vrednosti (npr. `5` korakov) uporabili pogoj, do kdaj naj se zanka izvaja. Zanki
 
@@ -233,7 +246,7 @@ Poskusite nalogo rešiti s kar se da malo ukazi in uporabljajte zanke.
 
 #### [Pospravi nered](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1559526145869702899/) in [Pišek se pošali](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1933948093694357513/)
 
-Poberite vsa semena (oz. jajca) in jih odložite v gnezda. Lažja različica Piška v šoli.
+Poberite vsa semena (oz. jajca) in jih odložite v gnezda. Ta naloga je lažja različica _Pišek v šoli_.
 
 #### [Tekmovanje](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-169179985943310500/)
 

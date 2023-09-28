@@ -91,6 +91,8 @@ zapomniti in jo shraniti v spremenljivko.
 Na drugem nivoju so kovančki razporejeni v pravokotnik,
 na tretjem pa v trikotnik, kar nalogo nekoliko oteži.
 
+**opomba:** Za barvanje kvadratka lahko uporabite kar blok izkoplji kovanček.
+
 ### [Računanje](https://pisek.acm.si/contents/4907-905475276192595697-336263441319752813-608309524412854214/)
 
 Na prvih dveh nivojih nas čakata delno napisana programa, ki prebereta dve števili z vhoda.
@@ -128,5 +130,3 @@ Za drugo in tretjo stopnjo potrebujemo pogojne stavke, zato se nanju vrnite po n
 _Za reševanje teh nalog je treba poznati pogojne stavke, zanke, včasih tudi tabele in še kaj._
 
 - [Pišček raziskuje](https://pisek.acm.si/contents/4907-905475276192595697-336263441319752813-1228907312687806211/): sledi sledem, ki jih najdeš na poljih in poberi vsa zrna
-- [Taborniška skupina Ogenj](https://pisek.acm.si/contents/4907-905475276192595697-336263441319752813-299337302389322177/): Preštej število tabornikov, katerih starost je enaka zahtevani.
-- [Taborniška skupina Medved](https://pisek.acm.si/contents/4907-905475276192595697-336263441319752813-1635014616559399342/): Preštej število tabornikov, ki so starejši od predpisane meje.
