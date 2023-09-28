@@ -244,14 +244,6 @@ Poskusite nalogo rešiti s kar se da malo ukazi in uporabljajte zanke.
 
 Če ti je bila naloga všeč, lahko doma rešiš še [Nadaljevalni ples v paru](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-188559469369589603/) ter [Ples parov v ledeni dvorani](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1027585030529377444/).
 
-#### [Pospravi nered](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1559526145869702899/) in [Pišek se pošali](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1933948093694357513/)
-
-Poberite vsa semena (oz. jajca) in jih odložite v gnezda. Ta naloga je lažja različica _Pišek v šoli_.
-
-#### [Tekmovanje](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-169179985943310500/)
-
-Težja različica naloge _Pospravi nered_.
-
 #### [Zakopani kovančki](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1629307201650149991/)
 
 Sprehodi zmajčka v desno in izkoplji kovanec, če je trenutno polje označeno.
@@ -265,3 +257,9 @@ Namesto semen tokrat pobiramo sadeže, vendar se naloga malo zaplete,
 saj so sadeži in pripadajoča skrivališča različnih barv, zato je treba malo paziti.
 
 Na prvi stopnji se sadeži in skrivališča nahajajo v isti vrstici, medtem ko so na drugi in tretji stopnji v različnih vrsticah.
+
+### Še več dodatnih nalog
+
+- [Tekmovanje](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-169179985943310500/) (težja različica naloge _Pospravi nered_).
+- [Pospravi nered](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1559526145869702899/)
+- [Pišek se pošali](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1933948093694357513/)(ta naloga je lažja različica _Pišek v šoli_).
