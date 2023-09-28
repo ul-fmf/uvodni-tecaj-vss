@@ -20,7 +20,7 @@ programiranja z delčki na računalniku.
 - [Zaporedje ukazov](zaporedje-ukazov.html) (26. september)
 - [Zanke](zanke.html) (27. september)
 - [Spremenljivke](spremenljivke.html) (27. in 28. september)
-- [Pogojni stavek](pogojni-stavek.html)
+- [Pogojni stavek](pogojni-stavek.html) (28. in 29. september)
 
 ## Viri
 
