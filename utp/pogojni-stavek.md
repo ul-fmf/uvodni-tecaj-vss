@@ -170,6 +170,10 @@ Za domačo nalogo, lahko dokažete, da se Collatzovo zaporedje za vsak začetni 
 
 Vaša naloga tukaj pa je, da simulirate računalnik, ki računa Collatzovo zaporedje. Za to potrebujemo 3 prostovoljce. En zna za vsako liho število $$n$$ izračunati $$3n + 1$$, drugi zna za vsako sodo število $$n$$ izračunati $$n / 2$$, tretji pa zna za vsako število $$n$$ ugotoviti, ali je število sodo ali liho. Izračunajte zaporedje števila 52.
 
+### Ugani število
+
+Poskusite uganiti število med 0 in 100, ki si jo je izmislil izvajalec. Poskusite ugotoviti v čim manj poskusih. Največ koliko poskusov potrebujete, da zagotovo lahko uganete število?
+
 ### Najdi približno ničlo
 
 Radi bi našli ničlo funkcije $$f$$ s predpisom $$f(x) = x^5 + 3 x^2 + x + 1$$.
@@ -186,7 +190,8 @@ Srečali boste logične operatorje `ne`, `in` ter `ali`, poleg tega pa še opera
 - `x != y` vrne 1 natanko tedaj, ko sta `x` in `y` različna (npr. `3 != 4`),
 - `x <= y` vrne 1 natanko tedaj, ko je `x` manjši ali enak `y` (npr. `3 <= 3` in `3 <= 4`) ,
 - `x < y` vrne 1 natanko tedaj, ko je `x` manjši od `y` (npr. `3 < 4`, ampak `3 < 3` ne velja),
-- `x >= y` in `x > y` vrneta 1 natanko tedaj, ko je `x` večji (ali enak) `y` (npr. `4 >= 3` in `4 > 3`).
+- `x >= y` vrne 1 natanko tedaj, ko je `x` večji ali enak `y` (npr. `4 >= 3`),
+- `x > y` vrne 1 natanko tedaj, ko je `x` večji od `y` (npr. `5 > 3`).
 
 ## Naloge na Portalu Pišek
 
