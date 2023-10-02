@@ -1,3 +1,12 @@
+---
+layout: home
+title: Modularna aritmetika
+---
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # Modularna aritmetika
 
 Ura je 23:00. Ker skrbimo za zdrav spalni režim, da se lahko zjutraj spopademo z ogromno količino obveznosti, bomo spancu namenili točno osem ur. Ob kateri uri bomo nastavili budilko?
