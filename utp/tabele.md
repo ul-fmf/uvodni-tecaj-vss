@@ -7,7 +7,6 @@ title: Tabele
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-# Tabele
 
 Ko gremo v trgovino, si napišemo nakupovalni listek, kamor po vrsti zapišemo vse stvari,
 ki jih želimo kupiti, npr.
