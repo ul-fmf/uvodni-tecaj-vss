@@ -21,6 +21,7 @@ programiranja z delčki na računalniku.
 - [Zanke](zanke.html) (27. september)
 - [Spremenljivke](spremenljivke.html) (27. in 28. september)
 - [Pogojni stavek](pogojni-stavek.html) (28. in 29. september)
+- [Modularna aritmetika](modularna-aritmetika.md) (3. oktober)
 
 ## Viri
 
