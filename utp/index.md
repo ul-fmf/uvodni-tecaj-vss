@@ -1,9 +1,10 @@
 ---
 layout: home
-title: Uvajalni tečaj programiranja
+title: Uvajalni tečaj algoritmičnega razmišljanja
 ---
 
-Na tem tečaju se boste pripravili na predmete, pri katerih se boste učili računalniškega programiranja.
+Na tem tečaju se boste pripravili na predmete, pri katerih se boste učili osnov
+algoritmičnega razmišljanja.
 
 Računalniško programiranje je način, da računalniku dopovemo, kako naj naredi nekaj namesto nas.
 Kljub velikemu napredku umetne inteligence moramo z računalnikom še vedno govoriti v programskem jeziku.
