@@ -13,4 +13,4 @@ Uvajalni tečaj algoritmičnega razmišljanja in Repetitorij matematike sta name
 
 ## Uvajalni tečaj algoritmičnega razmišljanja
 
-[Zapiske](utp/) so pripravili Katja Berčič, Filip Koprivec, Ajda Lampe, Matej Petković, Gašper Žajdela.
+[Zapiske](utar/) so pripravili Katja Berčič, Filip Koprivec, Ajda Lampe, Matej Petković, Gašper Žajdela.

@@ -18,12 +18,12 @@ programiranja z delčki na računalniku.
 
 ## Kazalo po temah
 
-- [Zaporedje ukazov](zaporedje-ukazov.html) (26. september)
-- [Zanke](zanke.html) (27. september)
-- [Spremenljivke](spremenljivke.html) (27. in 28. september)
-- [Pogojni stavek](pogojni-stavek.html) (28. in 29. september)
-- [Modularna aritmetika](modularna-aritmetika.md) (3. oktober)
-- [Tabele](tabele.md) (4. oktober)
+- [Zaporedje ukazov](zaporedje-ukazov.html)
+- [Zanke](zanke.html)
+- [Spremenljivke](spremenljivke.html)
+- [Pogojni stavek](pogojni-stavek.html)
+- [Modularna aritmetika](modularna-aritmetika.md)
+- [Tabele](tabele.md)
 
 ## Viri
 
