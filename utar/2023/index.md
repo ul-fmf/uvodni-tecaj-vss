@@ -9,3 +9,5 @@ title: Kazalo za leto 2023
 - [Pogojni stavek](pogojni-stavek.html)
 - [Modularna aritmetika](modularna-aritmetika.md)
 - [Tabele](tabele.md)
+
+[Nazaj na prvo stran](../index.md)

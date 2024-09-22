@@ -36,7 +36,7 @@ Zdaj, ko imate že nekaj izkušenj z dajanjem natančnih navodil: kako bi podali
 
 ### Barvanje mreže
 
-Napišite programe, s katerimi boste pobarvali mreže v [priloženi datoteki](barvanje-mreze.pdf).
+Napišite programe, s katerimi boste pobarvali mreže v [priloženi datoteki](../gradiva_pdf/barvanje-mreze.pdf).
 Začnite v zgornjem levem polju. Na voljo imate ukaze:
 
 - premakni se za ena na desno,
@@ -54,8 +54,8 @@ Kaj naj se zgodi, če zaidemo iz mreže?
 To nalogo smo si izposodili s portala [Vidra](http://vidra.si/otok-zakladov/). Za igro potrebujemo gusarja ter sedem udeležencev, ki predstavljajo otočane in gusarja usmerjajo.
 Gusarjeva naloga je poiskati otok zakladov.
 
-Otočani dobijo listek z imenom svojega otoka ([gusarji-otoki.pdf](gusarji-otoki.pdf)), in navodila kam iz njihovega otoka odpotuje ladja A in kam ladja B.
-Gusar dobi prazen zemljevid ([gusarji-prazen-zemljevid.pdf](gusarji-prazen-zemljevid.pdf)), na katerem so narisani vsi otoki, ni pa napisano kam lahko iz posameznega otoka odpluje.
+Otočani dobijo listek z imenom svojega otoka ([gusarji-otoki.pdf](../gradiva_pdf/gusarji-otoki.pdf)), in navodila kam iz njihovega otoka odpotuje ladja A in kam ladja B.
+Gusar dobi prazen zemljevid ([gusarji-prazen-zemljevid.pdf](../gradiva_pdf/gusarji-prazen-zemljevid.pdf)), na katerem so narisani vsi otoki, ni pa napisano kam lahko iz posameznega otoka odpluje.
 Gusar svojo pot začne na Otoku gusarjev.
 
 ## Naloge na Portalu Pišek
@@ -99,7 +99,7 @@ Poskusite sestaviti program, ki uporabi ukaze iz prejšnjih nalog (gor, dol, lev
 
 ### Delovni list
 
-Rešite [delovni list](delovni-list-01.pdf).
+Rešite [delovni list](../gradiva_pdf/delovni-list-01.pdf).
 
 ### Naloge za samostojno reševanje
 
