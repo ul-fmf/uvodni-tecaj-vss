@@ -18,8 +18,8 @@ programiranja z delčki na računalniku.
 
 ## Kazalo po letih
 
-- [2024](2024.html)
-- [2023](2023.html)
+- [2024](2024/)
+- [2023](2023/)
 
 ## Viri
 

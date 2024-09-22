@@ -3,6 +3,4 @@ layout: home
 title: Kazalo za leto 2024
 ---
 
-## Kazalo po temah
-
 - [Zaporedje ukazov](zaporedje-ukazov.html)

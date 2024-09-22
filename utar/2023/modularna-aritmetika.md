@@ -55,7 +55,7 @@ Dodatno vprašanje (izberi eno):
 Iva, Jan, Tim, Tea, Miha in Janja potrebujejo hrano za piknik. Ker nihče noče prostovoljno v trgovino, se dogovorijo, da naj izštevanka določi "srečnega izbranca". Izštevanko začnejo šteti pri Ivi v smeri proti Janu (glej spodnjo sliko). Izštevanka se ustavi pri Mihi. Točno tedaj zazvoni telefon. Miha, Tim in Janja morajo nujno takoj domov. Zdaj Iva, Jan in Tea ponovijo isto izštevanko. Spet začnejo pri Ivi in nadaljujejo proti Janu.
 
 
-![slika](slike/izstevanka.png)
+![slika](../slike/izstevanka.png)
 
 Kdo izmed preostalih treh otrok bo moral v trgovino?
 
@@ -67,7 +67,7 @@ _Vir: http://www.nauk.si/materials/1381/out/#state=3_
 
 Pred nami je polje dolžine 15 kvadratov. Kvadrate želimo barvati po vzorcu: prvo polje z modro, drugo z rdečo, tretje z rumeno, četrto z zeleno, peto spet z modro, šesto z rdečo, ...., kot prikazuje slika:
 
-![pobarvano polje](slike/pobarvano_polje.png)
+![pobarvano polje](../slike/pobarvano_polje.png)
 
 Sestavi ustrezen postopek. Če ti bo lažje, si pomagaj z ukazi, ki smo jih uporabljali na Pišku.
 

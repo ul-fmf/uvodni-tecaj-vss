@@ -207,11 +207,11 @@ Sprehodite Piška, tako da bo po poti pobiral semena (semen ni treba pobrati z u
 
 Ker ne veste, koliko časa bo treba hoditi do označenega polja, boste v zanki namesto neke konkretne vrednosti (npr. `5` korakov) uporabili pogoj, do kdaj naj se zanka izvaja. Zanki
 
-![while dokler ni označeno](./while_dokler_ni.PNG)
+![while dokler ni označeno](../slike/while_dokler_ni.PNG)
 
 oz.
 
-![while medtem ko](./while_medtem_ko.PNG)
+![while medtem ko](../slike/while_medtem_ko.PNG)
 
 imata isti učinek: pišček hodi naprej, dokler ne pride na označeno polje.
 
@@ -230,7 +230,7 @@ Na drugi stopnji je semen in gnezd več, a so lepo urejena v dva stolpca, na tre
 Pri tej nalogi moramo pobarvati označena polja, a se pri tem ne moremo zanašati na pogoj `je označeno`, kot pri nekaterih drugih nalogah. Namesto tega imamo dostop do trenutnega položaja:
 košček `stolpec zmajčka` in - na višjih stopnjah - `vrstica zmajčka`. S pomočjo teh kosov lahko tvorimo kompleksnejše pogoje, npr.
 
-![sestavljen pogoj](./sestavljeni_pogoji.PNG)
+![sestavljen pogoj](../slike/sestavljeni_pogoji.PNG)
 
 Na prvi stopnji so označena polja v stolpcih 7, 8, 9, 10 in 11, na drugi in tretji stopnji pa
 so zložena v trikotnik (ki ga malo manjka) in križ.

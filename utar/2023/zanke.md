@@ -27,7 +27,7 @@ pojdi v desno
 
 poznajo tudi programski jeziki bližnjice, ki jim pravimo zanke. Na portalu Pišček so videti tako:
 
-![pišček zanka](./piscek_zanka.PNG)
+![pišček zanka](../slike/piscek_zanka.PNG)
 
 Tu v zanki povemo, kolikokrat je treba ponoviti njeno vsebino. Kasneje bomo spoznali še drugi tip zank, ki jih uporabimo,
 ko število ponovitev ni poznano v naprej, moramo pa ponavljati določene ukaze, dokler je izpolnjen neki pogoj,

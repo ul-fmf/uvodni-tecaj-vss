@@ -64,11 +64,11 @@ V pomoč nam je prva vrstica, kjer so polja pobarvana (senzor za barvo imamo).
 Ker ne moremo hoditi gor, nas program prisili, da si zapomnimo, kar smo videli v prvi vrstici,
 zato si pripravimo tabelo (z imenom `tabelka`) dolžine 16 (toliko, kot je dolžina prve vrstice) in v njej vse elemente nastavimo na 0:
 
-![ustvari tabelo](slike/ustvari_tabelo.PNG)
+![ustvari tabelo](../slike/ustvari_tabelo.PNG)
 
 Če srečamo barvno polje, je treba tabelo posodobiti, npr. tako:
 
-![preprosto posodobi tabelo](slike/posodobi_tabelo_preprosto.PNG)
+![preprosto posodobi tabelo](../slike/posodobi_tabelo_preprosto.PNG)
 
 Vrednost 1 ni pomembna, važno je, da se razlikuje od 0.
 
@@ -84,11 +84,11 @@ Kot prej si pripravimo tabelo, nato pa jo posodobimo, a pozor: število stolpca 
 
 Lahko bi uporabili preprosto zanko (`ponavljaj 5 krat`), kot do sedaj:
 
-![posodobi tabelo](slike/posodobi_tabelo.PNG)
+![posodobi tabelo](../slike/posodobi_tabelo.PNG)
 
 a zato je treba definirati novo spremenljivko `korak`, saj moramo vedeti, kateri element tabele posodabljamo. Bolje je, da uporabimo zanko
 
-![boljša for zanka](slike/boljsa_for_zanka.PNG)
+![boljša for zanka](../slike/boljsa_for_zanka.PNG)
 
 ki že vsebuje ustrezno spremenljivko `i`, s pomočjo katere vemo, na katerem koraku smo.
 

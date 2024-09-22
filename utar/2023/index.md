@@ -3,8 +3,6 @@ layout: home
 title: Kazalo za leto 2023
 ---
 
-## Kazalo po temah
-
 - [Zaporedje ukazov](zaporedje-ukazov.html)
 - [Zanke](zanke.html)
 - [Spremenljivke](spremenljivke.html)
