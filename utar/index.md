@@ -8,7 +8,7 @@ algoritmičnega razmišljanja.
 
 Računalniško programiranje je način, da računalniku dopovemo, kako naj naredi nekaj namesto nas.
 Kljub velikemu napredku umetne inteligence moramo z računalnikom še vedno govoriti v programskem jeziku.
-Na tem tečaju se boste lahko spoznali z algoritmičnim načinom razmišljanja, ki vam bom prišel prav pri programiranju,
+Na tem tečaju se boste lahko spoznali z algoritmičnim načinom razmišljanja, ki vam bo prišel prav pri programiranju,
 preizkusili pa boste tudi, kaj pomeni, da imamo za komunikacijo z računalnikom na voljo samo omejen nabor besed.
 
 Računalniške programe danes srečamo že skoraj na vsakem koraku. Katerih se spomnite?
@@ -16,14 +16,10 @@ Računalniške programe danes srečamo že skoraj na vsakem koraku. Katerih se s
 V okviru tečaja se boste spoznali z algoritmičnim načinom razmišljanja brez računalnika in preko
 programiranja z delčki na računalniku.
 
-## Kazalo po temah
+## Kazalo po letih
 
-- [Zaporedje ukazov](zaporedje-ukazov.html)
-- [Zanke](zanke.html)
-- [Spremenljivke](spremenljivke.html)
-- [Pogojni stavek](pogojni-stavek.html)
-- [Modularna aritmetika](modularna-aritmetika.md)
-- [Tabele](tabele.md)
+- [2024](2024.html)
+- [2023](2023.html)
 
 ## Viri
 
