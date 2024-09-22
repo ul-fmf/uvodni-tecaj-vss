@@ -59,6 +59,10 @@ Gusar svojo pot začne na Otoku gusarjev.
 Enega od študentov (ali pa del skupine) pošljemo stran/za vogal. Preostanek skupine skrije čokolado/napolitanke in napiše čimbolj natančna navodila za iskanje zaklada.
 Navodila za iskanje nato predajo študentom, ki so šli na stran in ti poskušajo poiskati zaklad.
 
+## Naloge iz Bobra
+
+TODO
+
 ## Naloge na Portalu Pišek
 
 ### [Pišek zoba zrna](https://pisek.acm.si/contents/4907-4902-6586947264732270-337559782458156072-792990685659790508-1406670246764682841/)
