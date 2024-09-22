@@ -30,10 +30,6 @@ Pri tej nalogi uporabniki dajejo izvajalcem navodila za risanje enostavne slike.
 Pomembno je, da izvajalci slike ne vidijo vnaprej.
 Izvajalci naj sledijo navodilom, ampak naj poskusijo uporabnike pripraviti do tega, da podajo bolj natančna navodila.
 
-### Kako pridemo do računalniške učilnice
-
-Zdaj, ko imate že nekaj izkušenj z dajanjem natančnih navodil: kako bi podali čim bolj podroben opis poti od vhoda v stavbo do računalniške učilnice?
-
 ### Barvanje mreže
 
 Napišite programe, s katerimi boste pobarvali mreže v [priloženi datoteki](../gradiva_pdf/barvanje-mreze.pdf).
@@ -57,6 +53,11 @@ Gusarjeva naloga je poiskati otok zakladov.
 Otočani dobijo listek z imenom svojega otoka ([gusarji-otoki.pdf](../gradiva_pdf/gusarji-otoki.pdf)), in navodila kam iz njihovega otoka odpotuje ladja A in kam ladja B.
 Gusar dobi prazen zemljevid ([gusarji-prazen-zemljevid.pdf](../gradiva_pdf/gusarji-prazen-zemljevid.pdf)), na katerem so narisani vsi otoki, ni pa napisano kam lahko iz posameznega otoka odpluje.
 Gusar svojo pot začne na Otoku gusarjev.
+
+### Iskanje skritega zaklada
+
+Enega od študentov (ali pa del skupine) pošljemo stran/za vogal. Preostanek skupine skrije čokolado/napolitanke in napiše čimbolj natančna navodila za iskanje zaklada.
+Navodila za iskanje nato predajo študentom, ki so šli na stran in ti poskušajo poiskati zaklad.
 
 ## Naloge na Portalu Pišek
 
