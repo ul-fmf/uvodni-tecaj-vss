@@ -52,6 +52,72 @@ Vendar bomo te zanke spoznali kasneje, saj bomo najprej spoznali pogojne stavke.
 
 Katere od [mrež](../gradiva_pdf/barvanje-mreze.pdf) (iz zaporedja ukazov) lahko pobarvamo tako, da ponavljamo kratko zaporedje ukazov?
 
+## Naloge iz Bobra
+
+### Robot na poti
+
+V botaničnem vrtu so dobili novega robota, ki pobira smeti po poti. Pot je na spodnji sliki
+označena s sivimi kvadratki, robot (🟦) vedno začne na levi strani:
+
+![Robot na poti](../slike/bober202324-robot-na-poti.png)
+
+Robota lahko premikamo z ukazi:
+
+- Go (premakni se eno polje gor)
+- De (premakni se eno polje desno)
+- Do (premakni se eno polje dol)
+
+Robot si lahko zapomni največ pet ukazov, ki jih ponavlja, dokler ne pride do konca parka.
+
+Katero zaporedje ukazov bo peljalo robota tako, da bo šel po najmanjšem številu belih polj?
+
+<ol type="A">
+  <li>DeDeGoDeDe</li>
+  <li>DeDeDeGoDe</li>
+  <li>GoDeDeDeDo</li>
+  <li>DeGoDeDeDe</li>
+</ol>
+
+### Zidni robot
+
+Robot se pomika tesno ob zidu. Preden ga poženemo, mu podamo zaporedje ukazov. Vsakič, ko naleti na magnetno kontrolno enoto, izvede naslednji ukaz s seznama. Če mu podamo, recimo, zaporedje NADALJUJ, ZAMENJAJ, ZAMENJAJ, bo ob prvi kontrolni enoti izvedel ukaz NADALJUJ, ob drugi ZAMENJAJ in ob tretji ZAMENJAJ. Če večkrat naleti na isto kontrolno enoto, bo tudi ob njej vsakič izvedel naslednji ukaz s seznama.
+
+Pomen ukazov je takšen:
+
+- NADALJUJ - Nadaljuje pot mimo enote, kot da je ne bi bilo.
+- ZAMENJAJ - Preskoči na drugo steno (z leve na desno oz. obratno) in nadaljuje vožnjo v isti smeri.
+- STOJ - Robot se ustavi.
+
+Robota smo pognali v stavbi na spodnji sliki. Dali smo mu zaporedje ZAMENJAJ, NADALJUJ, NADALJUJ, NADALJUJ, STOP. Pri katerem liku bo končal pot?
+
+![Zidni robot](../slike/bober-zanke.png)
+
+### Kvadrati
+
+Mali robot, specializiran za risanje kvadratov, pozna tri ukaze:
+
+- `Oranžna` - nariši oranžno črto dolžine 1.
+- `Črna` - nariši črno črto dolžine 1.
+- `Obrat` - obrni se za 90 stopinj desno.
+
+Ukaze lahko sestavljamo.
+
+- Če naštejemo več ukazov, jih ločimo z vejico.
+- Če pred ukaz napišemo številko in x, bo robot večkrat ponovil ukaz. Če napišemo, recimo `3 x Obrat`, se bo trikrat obrnil na desno.
+- Če želimo ponoviti zaporedje več ukazov, jih zapremo v oklepaj. Tako bo, recimo, `3 x (Črna, Obrat)` trikrat narisal črno črto in se obrnil.
+
+Narisali bi radi takšno sliko:
+![kvadrati](../slike/bober-kvadrati.png)
+
+To lahko storimo na različne načine. Trije od spodnjih so pravilni. Kateri je napačen?
+
+<ol type="A">
+  <li>`4 x (2 x (Oranžna, Obrat), 3 x Črna, 2 x (Oranžna, Obrat))`</li>
+  <li>`4 x (2 x (Oranžna, Obrat), Oranžna, 3 x Črna, Oranžna, Obrat)`</li>
+  <li>`4 x (3 x Črna, 3 x (Oranžna, Obrat), Oranžna)`</li>
+  <li>`4 x (Črna, 3 x (Oranžna, Obrat), Oranžna, 2 x Črna)`</li>
+</ol>
+
 ## Naloge na Portalu Pišek
 
 ### [Slastna zrna](https://pisek.acm.si/contents/4907-905475276192595697-1358046987851793899-731188588614266740/)
