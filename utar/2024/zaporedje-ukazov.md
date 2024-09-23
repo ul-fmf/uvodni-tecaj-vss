@@ -61,7 +61,7 @@ Navodila za iskanje nato predajo študentom, ki so šli na stran in ti poskušaj
 
 ## Naloge iz Bobra
 
-TODO
+Za utrjevanje si pogledamo nekaj [Bobrovih nalog](../gradiva_pdf/zaporedje_ukazov_bober.pdf).
 
 ## Naloge na Portalu Pišek
 
