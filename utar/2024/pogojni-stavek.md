@@ -354,35 +354,3 @@ Na prvi stopnji so označena polja v stolpcih 7, 8, 9, 10 in 11, na drugi in tre
 so zložena v trikotnik (ki ga malo manjka) in križ.
 
 **Opomba:** Če koščka `pobarvaj polje` ni, lahko uporabite `izkoplji kovanček`.
-
-### Dodatno utrjevanje
-
-#### [Začetni ples v paru](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1384912022465555789/)
-
-Pojdi do plesalke, jo dvigni in odloži na rumenem polju.
-
-Na drugi in tretji stopnji morate iti čez vsa rdeča polja (čeprav tega uradna navodila ne zahtevajo) in na njih naredite pirueto.
-
-Poskusite nalogo rešiti s kar se da malo ukazi in uporabljajte zanke.
-
-Če ti je bila naloga všeč, lahko doma rešiš še [Nadaljevalni ples v paru](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-188559469369589603/) ter [Ples parov v ledeni dvorani](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1027585030529377444/).
-
-#### [Zakopani kovančki](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1629307201650149991/)
-
-Sprehodi zmajčka v desno in izkoplji kovanec, če je trenutno polje označeno.
-
-Na drugi in tretji stopnji je treba prehoditi pravokotnik
-namesto ravne črte.
-
-#### [Sadovnjak](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1962788967882897721/)
-
-Namesto semen tokrat pobiramo sadeže, vendar se naloga malo zaplete,
-saj so sadeži in pripadajoča skrivališča različnih barv, zato je treba malo paziti.
-
-Na prvi stopnji se sadeži in skrivališča nahajajo v isti vrstici, medtem ko so na drugi in tretji stopnji v različnih vrsticah.
-
-### Še več dodatnih nalog
-
-- [Tekmovanje](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-169179985943310500/) (težja različica naloge _Pospravi nered_).
-- [Pospravi nered](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1559526145869702899/)
-- [Pišek se pošali](https://pisek.acm.si/contents/4907-905475276192595697-124593487069807966-1933948093694357513/)(ta naloga je lažja različica _Pišek v šoli_).
