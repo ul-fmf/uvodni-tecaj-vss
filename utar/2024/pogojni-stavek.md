@@ -299,6 +299,14 @@ Na katere izhode bodo prišli bobri na koncu igre?
     </ol></li>
 </ol>
 
+### Frnikole
+
+![Frnikole](../slike/zogice.png)
+
+### Vezje
+
+![Vezje](../slike/vezje.png)
+
 ## Naloge na Portalu Pišek
 
 ### Operatorji na Portalu Pišček
