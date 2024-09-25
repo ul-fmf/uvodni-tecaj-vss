@@ -238,6 +238,25 @@ vseeno zagotovo izvedel, kateri so mu prav. Koliko jih bo moral poskusiti v najs
 
 ![Pomerjanje čevljev](../slike/cevlji.png)
 
+### Razpolavljanje ogrlice
+
+Andreja ima ogrlico iz zaporedja perlic: diamant, kocka, kroglica, diamant, kocka, kroglica ... in tako
+dalje.
+
+![Razpolavljanje ogrlice](../slike/bober201718-razpolavljanje-ogrlice.png)
+
+1. Andreja odstrani perlico na sredini ogrlice in tako dobi dva krajša, enako dolga dela ogrlice.
+   Levi del ogrlice odloži.
+2. Z desnim delom ponovi postopek: odstrani perlico na sredini in spet obdrži le desni del.
+3. Preostali desni del razdeli na enak način in spet obdrži le desno polovico.
+4. To ponovi še enkrat.
+   Ostane ji le ena perlica, v obliki diamanta. Katere perlice je odstranila z ogrlice in v kakšnem
+   vrstnem redu?
+
+![Razpolavljanje ogrlice](../slike/bober201718-razpolavljanje-ogrlice-mozni-odgovori.png)
+
+_Namig_: Najprej moramo ugotoviti, kako dolga je bila ogrlica na začetku (vemo, da je na koncu ostala le ena).
+
 ### Ogled muzeja
 
 Slika kaže načrt dela muzeja Ermitaž v Sankt Peterburgu.
@@ -306,6 +325,47 @@ Na katere izhode bodo prišli bobri na koncu igre?
 ### Vezje
 
 ![Vezje](../slike/vezje.png)
+
+### Lažne novice
+
+Nacionalna televizija vsak dan pripravlja večerna poročila. Večina novic v poročilih je resnična, a
+nekaj je tudi lažnih. Štirje prijatelji, Ana, Berta, Ciril in Darko, vsak večer skupaj gledajo poročila.
+
+- Ana je zelo dobra pri ločevanju lažnih novic od resničnih.
+- Berta misli, da so vse novice lažne.
+- Ciril vedno zamenja lažne novice za resnične in resnične za lažne.
+- Darko pa misli, da so vse novice resnične.
+
+Prijatelji so se dogovorili, da bodo kot resnične obravnavali vse tiste novice, za katere vsaj trije od
+njih mislijo (ali vedo), da je novica resnična.
+V katerem primeru se bodo prijatelji strinjali, da je novica resnična?
+
+<ol type="A">
+  <li>Kadar je novica dejansko resnična.</li>
+  <li>Kadar je novica dejansko lažna.</li>
+  <li>Vedno.</li>
+  <li>Nikoli.</li>
+</ol>
+
+### Namakanje polj
+
+![Namakanje polj](../slike/bober202122-namakanje-polj.png)
+
+### Pikčaste kukavice
+
+Ob drevesu je pet pikčastih kukavic. Druga za drugo — po vrsti od leve proti desni — plezajo na
+drevo in se naselijo v prazna gnezda. Tista s štirimi pikami je prva. Vsaka pikčasta kukavica si
+izbere gnezdo po naslednjem pravilu:
+Začne na dnu drevesa in ponavlja naslednje korake, dokler ne najde praznega gnezda:
+
+1. Vzpenja se po drevesu, dokler ne pride do gnezda.
+2. Če je gnezdo prazno, se naseli vanj in tam ostane.
+3. Če je gnezdo zasedeno, pogleda pikčasto kukavico, ki sedi v njem. Če ima ta:
+   _ več pik, nadaljuje na levo stran drevesa,
+   _ manj ali enako pik, nadaljuje na desno stran drevesa.
+   Katera pikčasta kukavica se bo naselila v gnezdo na najvišji veji?
+
+![Pikčaste kukavice](../slike/bober202122-pikcaste-kukavice.png)
 
 ## Naloge na Portalu Pišek
 
