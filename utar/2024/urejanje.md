@@ -3,8 +3,6 @@ layout: home
 title: Urejanje
 ---
 
-# Urejanje
-
 Vam pride na misel kak primer, ko potrebujemo urejanje?
 
 Urejanje je zgodovinsko zelo pomemben problem in je bil eden prvih, ki so jih ljudje reševali.
