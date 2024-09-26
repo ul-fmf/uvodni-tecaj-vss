@@ -22,7 +22,7 @@ Z modularno aritmetiko se torej srečujemo vsak dan, a se tega pogosto niti ne z
 Modularna aritmetika oziroma računanje z ostanki pri deljenju je zelo pomembna tako v matematiki kot v računalništvu.
 V računalništvu se v zadnjem času še posebej uporablja v kriptografiji, srečamo pa jo večinoma vedno kadar želimo delati s števili na določenem območju oziroma kadar imamo opravka s cikličnimi vzorci (ko pridemo do konca intervala, začnemo na začetku).
 
-V programskih jezikih ostanek pri deljenju najpogosteje označujemo z znakom `%`. Tako bi na primer namesto $12 \bmod 10$ zapisali `12 % 10`.
+V programskih jezikih ostanek pri deljenju najpogosteje označujemo z znakom `%`. Tako bi na primer namesto $$12 \bmod 10$$ zapisali `12 % 10`.
 
 ## Brez računalnika
 
@@ -116,26 +116,26 @@ Specifično, zanima nas zadnja števka v `fib(100)`.
 Že prej so udeleženci spoznali fibonaccijevo zaporedje, ki je definirano, zato še enkrat izračunamo (lahko skupaj) 15. člen (`fib(0) = 0`, `fib(15) = 610`).
 
 Spomnite se naloge s fibonaccijevim zaporedjem, kjer smo računali k-to zaporedno število.
-Po izračunu `fib(15)` je očitno, da je `fib(100)` (~ $3.5 \times 10^{20}$) prevelik zalogaj, ampak, če nas zanima samo zadnja števka, lahko to izračunamo hitro. Spomni se, kako smo seštevali ure v prvi nalogi.
+Po izračunu `fib(15)` je očitno, da je `fib(100)` (~ $$3.5 \times 10^{20}$$) prevelik zalogaj, ampak, če nas zanima samo zadnja števka, lahko to izračunamo hitro. Spomni se, kako smo seštevali ure v prvi nalogi.
 
 ### Hitro potenciranje po modulu:
 
 Ugotovili smo, da lahko učinkovito izračunamo zadnjo števko pri številih, ki jih dobimo s seštevanjem, ali lahko to posplošimo?
 Za množenje in potenciranje po modulu velja enako kot za seštevanje.
 
-Naloga: hitro izračunaj ostanek $3^{20}$ (~ $3.4 * 10^9$) pri deljenju s 7.
+Naloga: hitro izračunaj ostanek $$3^{20}$$ (~ $$3.4 * 10^9$$) pri deljenju s 7.
 
 Koliko operacij je bilo treba opraviti?
 
-Naloga: Izračunaj še $3^4 \bmod 7$. (_Namig: Poskusi potenco razbiti na manjše stopnje, ki jih boš lažje izračunal_)
+Naloga: Izračunaj še $$3^4 \bmod 7$$. (_Namig: Poskusi potenco razbiti na manjše stopnje, ki jih boš lažje izračunal_)
 
 Koliko operacij je bilo treba opraviti sedaj?
 
-Bi znali sedaj $3^{20}$ izračunati hitreje?
+Bi znali sedaj $$3^{20}$$ izračunati hitreje?
 
 Razlaga:
 
-Če se spominmo pravila iz srednje šole, ki pravi da je $3^{20} = (3^4)^5$, potem lahko to izračunamo zelo hitro.
+Če se spominmo pravila iz srednje šole, ki pravi da je $$3^{20} = (3^4)^5$$, potem lahko to izračunamo zelo hitro.
 
 Kako to naredimo v praksi?
 
