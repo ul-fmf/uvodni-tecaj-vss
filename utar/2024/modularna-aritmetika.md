@@ -92,12 +92,6 @@ Kako bi program priredili, da bi izpisoval liha števila?
 
 _Opomba: V navodilih naloge na Pišku sicer piše, naj nalogo rešimo z uporabo tabele. Če tabel še ne poznaš, nalogo reši enostavno z branjem števil z vhoda, kot smo to že počeli pri prejšnjih temah. Ko spoznaš tabele, lahko rešitev za vajo razširiš še z uporabo tabele._
 
-### [Hana hodi v šolo](https://pisek.acm.si/contents/4907-319805995281415931-481416162117402159-1958275130846188552/)
-
-Hana se na poti v šolo dolgočasi, zato po poti barva kvadratke s kredo. Na začetku poti se odloči, koliko kvadratkov vmes bo preskočila. Pomagajmo ji pobarvati ustrezne kvadratke.
-
-Če ti je bila naloga všeč, se lahko za vajo lotiš še nalog za ⭐⭐⭐ in ⭐⭐⭐⭐.
-
 ### Več nalog s Piška
 
 - [Liha in negativna](https://pisek.acm.si/contents/4907-1335524310189622543-111084607483962723-1674365692897792648-180136988822293284/)

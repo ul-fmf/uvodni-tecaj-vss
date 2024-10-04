@@ -77,3 +77,5 @@ Včasih imajo predmeti, ki jih urejamo, posebaj lepe lastnosti in jih lahko ured
 Na primer kadar skupino učencev urejamo po abecedi, lahko najprej vse učence razdelimo v skupine po prvi črki priimka, nato pa znotraj vsake od teh skupin po drugi črki priimka in tako naprej. Pri tem učencev med seboj ni treba primerjati, saj vemo, kako si črke sledijo po abecedi. Takemu urejanju pravimo "Bucket sort", saj predmete urejanja razvrščamo v "vedra".
 
 Še en primer urejanja je urejanje s štetjem. Števila lahko uredimo tudi tako, v seznamu preštejemo, kolikokrat se nam pojavi posamezno število, nato pa se sprehodimo čez števec in v seznam zaporedno vstavljamo ustrezno število števil.
+
+Urejanje si lahko vizualno pogledaš tudi na [povezavi](https://visualgo.net/en/sorting).
